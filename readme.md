@@ -10,9 +10,9 @@
 
 ## **Context**
 
-        The tourism industry is one of the industries that are most affected by the Covid-19 pandemic, specifically, the hotel industry. With travel restrictions, according to research conducted by Mckinsey in 2020, the rate of hotel bookings has been deeply decreased, it makes investors of the industry very pessimistic.
+The tourism industry is one of the industries that are most affected by the Covid-19 pandemic, specifically, the hotel industry. With travel restrictions, according to research conducted by Mckinsey in 2020, the rate of hotel bookings has been deeply decreased, it makes investors of the industry very pessimistic.
 
-        To deal with this, hotel owners need to operate their operations efficiently to increase revenue so they can 'survive' from this pandemic. Therefore, we will carry out Exploratory Data Analysis with the 'Hotel Booking Demand' database to find out what can be improved from a hotel operation.
+To deal with this, hotel owners need to operate their operations efficiently to increase revenue so they can 'survive' from this pandemic. Therefore, we will carry out Exploratory Data Analysis with the 'Hotel Booking Demand' database to find out what can be improved from a hotel operation.
 
 
 <hr>
